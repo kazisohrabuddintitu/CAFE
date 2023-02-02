@@ -1,0 +1,89 @@
+
+.login1
+{
+background-image:url(../images/1.PNG);
+
+height:640px;
+width:1350px;
+border-radius:30px;
+
+}
+.image
+{
+height:400px;
+width:500px;
+margin-left:80PX;
+margin-top:150px;
+float:left;
+
+}
+
+
+.table
+{
+height:340px;
+width:480px;
+border:5px solid white;
+margin-left:170PX;
+float:left;
+border-radius:25px;
+}
+
+.table1
+{
+height:340px;
+width:480px;
+border:5px solid white;
+margin-left:170PX;
+margin-top: 150px;
+float:left;
+border-radius:25px;
+}
+
+.a
+{
+width:180px;
+height:37px;
+font-size:25px;
+border-radius:20px;
+font-family: Arial, Helvetica, sans-serif; 
+margin-top:25px;
+margin-left:40px;
+background-color:#E4D8C2;
+text-align:center;
+}
+.b
+{
+margin-left:160px;
+margin-top:20px;
+border-radius:25px;
+width:200px;
+height:40px;
+font-family:Arial, Helvetica, sans-serif; 
+font-size:25px;
+background-color:#E4D8C2;
+}
+.al{
+font-size: large;
+margin-bottom:20px;
+color: red;
+text-align:center;
+}
+
+.clickme {
+    background-color: #EEEEEE;
+    padding: 8px 20px;
+    text-decoration:none;
+    font-weight:bold;
+    border-radius:5px;
+    cursor:pointer;
+}
+.danger {
+    background-color:#FF0040;
+    color: #FFFFFF;
+}
+
+.danger:hover {
+    background-color:#EB003B;
+    color: #FFFFFF;
+}

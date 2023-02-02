@@ -1,0 +1,33 @@
+
+.line
+{
+
+font-size:45px;
+font-weight:bold;
+}
+.snap
+{
+margin-top:30px;
+margin-left:180px;
+margin-bottom:20px;
+}
+.logo img
+{
+	margin-top:-28px;
+}
+.offer3
+{
+height:275px;
+border:5PX #D1C6B2;
+margin-top:10px;
+margin-left:10px;
+margin-right:10px;
+margin-bottom:10px;
+background:#D1C6B2;
+
+}
+.offer3:hover
+{
+	border:7px solid #D1C6B2;
+}
+
