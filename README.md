@@ -1,5 +1,3 @@
 # Cafe_Shop_Project
 
-Dependencies
-
-with php
+A coffee shop with php, html and css languages.
